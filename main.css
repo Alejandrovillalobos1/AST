@@ -6,12 +6,12 @@
 }
 
 body {
+    background-color: #585656;
     width: 100%;
     margin: 0px;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
     line-height: 2;
-    background-color: #c0c0c0;
 }
 
 h1 {
@@ -30,6 +30,15 @@ h3 {
 p{
     font-size: 17px;
     margin: 70px;
+}
+
+.logotipo{
+    text-align: center;
+}
+
+.logotipo img{
+    height: 150px;
+    width: 300px;
 }
 
 nav{
